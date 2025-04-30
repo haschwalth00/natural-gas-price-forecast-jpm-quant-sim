@@ -16,7 +16,7 @@ To forecast natural gas prices for a 12-month future horizon using:
 
 ## Core Features
 
-- **Data Input:** Historical price data from `Nat_Gas.csv`
+- **Data Input:** Historical price data from `Nat_Gas(2).csv`
 - **Forecasting Technique:** Holt-Winters additive model via `statsmodels`
 - **Extrapolation Range:** 12 months beyond last known data point
 - **Interpolation Range:** All valid dates within the dataset
